@@ -1,2 +1,2 @@
-# Web-Development-Course
-Public Repository for Web Development Course for Beginners
+# NewsApp-Website
+This is the website for Online news.
